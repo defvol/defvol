@@ -1,3 +1,3 @@
 <div align="center">
-	<img src="/defvol/defvol/raw/master/header.svg" width="800" height="20">
+	<img src="https://raw.githubusercontent.com/defvol/defvol/master/header.svg" width="800" height="20">
 </div>
